@@ -3,6 +3,8 @@ This is Tokyo Olympics Analysis using Azure Cloud
 
 The Tokyo Olympic Data Engineering Project is a comprehensive data engineering solution that utilizes various Azure services, including Azure Databricks, Azure Synapse Analytics, Power BI, and Azure Data Factory. This project aims to collect, process, analyze, and visualize data related to the Tokyo Olympic Games.
 
+<img src="Data OverView.png">
+
 
 The project begins by using Azure Data Factory to orchestrate and automate the data integration and workflow processes. It facilitates the extraction, transformation, and loading (ETL) of data from various sources, such as Olympic event data, athlete information, and performance statistics.
 
